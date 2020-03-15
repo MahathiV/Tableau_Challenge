@@ -16,7 +16,10 @@ They have month-wise data https://www.citibikenyc.com/system-data from 2013, The
 * User Type (Customer = 24-hour pass or 3-day pass user; Subscriber = Annual Member)
 * Gender (Zero=unknown; 1=male; 2=female)
 * Year of Birth
-The current analysis is done from 2019 – second Quarter Q2 i.e, from April to June, Month wise Csvs are concatenated through python(pandas) to get data into a single csv file , which is used to analyse and visualize in Tableau. 
+
+
+
+The current analysis is done from 2019 â€“ second Quarter Q2 i.e, from April to June, Month wise Csvs are concatenated through python(pandas) to get data into a single csv file , which is used to analyse and visualize in Tableau. 
 Tableau link below :
 https://public.tableau.com/profile/mahathi1244#!/
 
