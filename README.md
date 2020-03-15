@@ -20,7 +20,9 @@ They have month-wise data https://www.citibikenyc.com/system-data from 2013, The
 
 
 The current analysis is done from 2019 – second Quarter Q2 i.e, from April to June, Month wise Csvs are concatenated through python(pandas) to get data into a single csv file , which is used to analyse and visualize in Tableau. 
-Tableau link below :
+
+
+Please find the link below :
 https://public.tableau.com/profile/mahathi1244#!/
 
 
